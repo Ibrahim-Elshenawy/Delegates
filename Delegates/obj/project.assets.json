@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ibrahim.elshenawy\\.nuget\\packages\\": {}
+    "C:\\Users\\mohamed.yehia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibrahim.elshenawy\\source\\repos\\D09\\Delegates\\Delegates.csproj",
+      "projectUniqueName": "C:\\Users\\mohamed.yehia\\Delegates\\Delegates\\Delegates.csproj",
       "projectName": "Delegates",
-      "projectPath": "C:\\Users\\ibrahim.elshenawy\\source\\repos\\D09\\Delegates\\Delegates.csproj",
-      "packagesPath": "C:\\Users\\ibrahim.elshenawy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibrahim.elshenawy\\source\\repos\\D09\\Delegates\\obj\\",
+      "projectPath": "C:\\Users\\mohamed.yehia\\Delegates\\Delegates\\Delegates.csproj",
+      "packagesPath": "C:\\Users\\mohamed.yehia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mohamed.yehia\\Delegates\\Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ibrahim.elshenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mohamed.yehia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
